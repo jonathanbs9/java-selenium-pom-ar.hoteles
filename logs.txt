@@ -1,0 +1,6 @@
+mar. 31, 2022 7:28:08 P. M. org.example.tests.BaseTest Initialize
+INFO: Initializing driver...
+mar. 31, 2022 7:28:08 P. M. org.example.tests.BaseTest Initialize
+INFO: Maximizing driver and getting URL...
+mar. 31, 2022 7:28:08 P. M. org.example.tests.BaseTest Initialize
+FINE: Fine logger
